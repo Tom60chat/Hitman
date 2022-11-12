@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Hitman": {
+      "commandName": "Project",
+      "commandLineArgs": "9500 49032"
+    }
+  }
+}
