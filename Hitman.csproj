@@ -8,6 +8,23 @@
     <Description>Kill the target when the contractor has been killed.</Description>
     <Copyright>Tom OLIVIER 2022</Copyright>
     <Authors>Tom OLIVIER</Authors>
+    <RepositoryUrl>https://github.com/Tom60chat/Hitman</RepositoryUrl>
+    <PackageTags>application, app, tool, dotnet, management, kill</PackageTags>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <NeutralLanguage>en</NeutralLanguage>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>

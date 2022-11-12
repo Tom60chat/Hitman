@@ -20,4 +20,4 @@ if (args.Length > 1 &&
     }
 }
 else
-    Console.WriteLine("Hitman.exe [contractor_id] [target_id}");
+    Console.WriteLine("Hitman.exe [contractor_id] [target_id]");
