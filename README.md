@@ -8,7 +8,7 @@ In another word:
 
 ## Download:  
 
-Download the [Zip file](https://github.com/Tom60chat/Microsoft-Rewards-Farmer-Sharp/releases) and extract it somewhere.  
+Download the [Zip file](https://github.com/Tom60chat/Hitman/releases) and extract it somewhere.  
 
 # Hot to use it:
 
